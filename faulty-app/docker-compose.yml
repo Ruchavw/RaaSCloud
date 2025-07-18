@@ -1,0 +1,14 @@
+version: "3"
+services:
+  faulty-app:
+    build:
+      context: ./faulty-app
+    ports:
+      - "3000:3000"
+    volumes:
+      - crash-data:/tmp
+    restart: always
+
+volumes:
+  crash-data:
+
