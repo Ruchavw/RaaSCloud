@@ -1,0 +1,86 @@
+[
+  {
+    "timestamp": 1753252266446,
+    "state": "COMPLETE",
+    "details": {
+      "currentPhase": "COMPLETE",
+      "lastDecision": "RECOVER",
+      "recoveryAttempts": 1,
+      "lastRecoveryTime": 1753252266444,
+      "bftConsensusActive": false,
+      "targetContainer": "faulty-app"
+    }
+  },
+  {
+    "timestamp": 1753252276470,
+    "state": "COMPLETE",
+    "details": {
+      "currentPhase": "COMPLETE",
+      "lastDecision": "RECOVER",
+      "recoveryAttempts": 1,
+      "lastRecoveryTime": 1753252266444,
+      "bftConsensusActive": false,
+      "targetContainer": "faulty-app"
+    }
+  },
+  {
+    "timestamp": 1753252316553,
+    "state": "COMPLETE",
+    "details": {
+      "currentPhase": "COMPLETE",
+      "lastDecision": "RECOVER",
+      "recoveryAttempts": 1,
+      "lastRecoveryTime": 1753252266444,
+      "bftConsensusActive": false,
+      "targetContainer": "faulty-app"
+    }
+  },
+  {
+    "timestamp": 1753252326576,
+    "state": "COMPLETE",
+    "details": {
+      "currentPhase": "COMPLETE",
+      "lastDecision": "RECOVER",
+      "recoveryAttempts": 1,
+      "lastRecoveryTime": 1753252266444,
+      "bftConsensusActive": false,
+      "targetContainer": "faulty-app"
+    }
+  },
+  {
+    "timestamp": 1753252336598,
+    "state": "COMPLETE",
+    "details": {
+      "currentPhase": "COMPLETE",
+      "lastDecision": "RECOVER",
+      "recoveryAttempts": 1,
+      "lastRecoveryTime": 1753252266444,
+      "bftConsensusActive": false,
+      "targetContainer": "faulty-app"
+    }
+  },
+  {
+    "timestamp": 1753330513002,
+    "state": "COMPLETE",
+    "details": {
+      "currentPhase": "COMPLETE",
+      "lastDecision": "RECOVER",
+      "recoveryAttempts": 1,
+      "lastRecoveryTime": 1753330512987,
+      "bftConsensusActive": false,
+      "targetContainer": "faulty-app"
+    }
+  },
+  {
+    "timestamp": 1753330523030,
+    "state": "COMPLETE",
+    "details": {
+      "currentPhase": "COMPLETE",
+      "lastDecision": "RECOVER",
+      "recoveryAttempts": 1,
+      "lastRecoveryTime": 1753330512987,
+      "bftConsensusActive": false,
+      "targetContainer": "faulty-app"
+    }
+  }
+]
